@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">Industrial Engineering graduate with strong abilities in data analysis, mathematics, statistics, and programming. Passionate about pursuing a career as a Data Analyst or Machine Learning Engineer in the industrial sector. Committed to leveraging data-driven solutions to improve operational efficiency, optimize processes, and drive impactful decision-making.</p>
+<p align="left">I'm an Industrial Engineering graduate with strong abilities in data analysis, mathematics, statistics, and programming. Passionate about pursuing a career as a Data Analyst or Machine Learning Engineer in the industrial sector. Committed to leveraging data-driven solutions to improve operational efficiency, optimize processes, and drive impactful decision-making.</p>
 
 ###
 
