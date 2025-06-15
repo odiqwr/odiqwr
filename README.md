@@ -89,7 +89,7 @@
 
 <p align="left">
 <img src="https://img.shields.io/badge/VS CODE-f7f7f7?style=for-the-badge&logo=vscode&logoColor=orange"/> 
-<img src="https://img.shields.io/badge/Satu Data Indonesia-f7f7f7?style=for-the-badge&logo=Satu Data Indonesia&logoColor=blue"/>
+<img src="https://img.shields.io/badge/Satu Data Indonesia-f7f7f7?style=for-the-badge&logo=SatuDataIndonesia&logoColor=blue"/>
 <img src="https://img.shields.io/badge/Notion-f7f7f7?style=for-the-badge&logo=Notion&logoColor=black"/>
 </p>
 
@@ -191,7 +191,7 @@
 <p align="left">
 <img src="https://img.shields.io/badge/Github-f7f7f7?style=for-the-badge&logo=Github&logoColor=black"/>
 <img src="https://img.shields.io/badge/Git-f7f7f7?style=for-the-badge&logo=Git&logoColor=red"/>
-<img src="https://img.shields.io/badge/Colab-f7f7f7?style=for-the-badge&logo=Google Colab&logoColor=orange"/> 
+<img src="https://img.shields.io/badge/Colab-f7f7f7?style=for-the-badge&logo=GoogleColab&logoColor=orange"/> 
 <img src="https://img.shields.io/badge/Real Piano-f7f7f7?style=for-the-badge&logo=KOLB&logoColor=blue"/>
 </p>
 
